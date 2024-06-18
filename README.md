@@ -1,5 +1,5 @@
 ## Hello there 👋
-What is going on guys my name is Han,  and Welcome to my github! This page contains of repositories of my work in diverse fields, such as AI, Software Engineering, and Video Editing. Right now, I'm currently learning AI in Binus University
+What is going on guys my name is Han,  and Welcome to my github! This page contains repositories of my work/mini-project/projects in diverse fields, such as AI, Software Engineering, and Video Editing. Right now, I'm currently learning AI in Binus University
 
 
 Nice to meet you!
