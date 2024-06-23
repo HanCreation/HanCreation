@@ -3,9 +3,8 @@ What is going on guys my name is Han,  and Welcome to my github! This page conta
 
 
 Nice to meet you!
-All of these are 
 
-Created, Noted, Edited, Anything by Han.
+All of these are Noted, Edited, Coded, Created by Han.
 
 @Han.Creation
 <!--
