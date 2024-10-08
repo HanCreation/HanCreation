@@ -6,8 +6,9 @@ Nice to meet you!
 
 All of these are Noted, Coded; Anything Created by Han.
 
-https://hancreation.github.io/CreatedByHan/
-https://hancreation.github.io/NarrativeNest-Demo/
+- http://codedbyhan.notion.site
+- https://hancreation.github.io/CreatedByHan/
+- https://hancreation.github.io/NarrativeNest-Demo/
 
 
 @Han.Creation
