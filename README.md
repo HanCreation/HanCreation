@@ -9,8 +9,7 @@ All of these are Noted, Coded; Anything Created by Han.
 https://hancreation.github.io/
 
 ----
-- http://codedbyhan.notion.site
-- https://hancreation.github.io/CreatedByHan/
+Try out my projects
 - https://hancreation.github.io/NarrativeNest-Demo/
 
 
