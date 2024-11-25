@@ -4,6 +4,8 @@ What is going on guys my name is Han,  and Welcome to my github! This page conta
 
 Nice to meet you!
 
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HanCreation&layout=compact&langs_count=8&card_width=320" />
+
 All of these are Noted, Coded; Anything Created by Han.
 
 https://hancreation.github.io/
