@@ -9,15 +9,13 @@
 
 ## 🎓 About Me
 
-What it is going on guys, my name is Han and welcome to my GitHub universe! I'm currently pursuing my journey in Artificial Intelligence at **Binus University** and Trying to Love Chatbots. My repositories showcase my work and mini-projects across various exciting fields:
+What it is going on guys, my name is Han and welcome to my GitHub universe! I'm currently pursuing my journey in Artificial Intelligence at **Binus University** and Trying to Love Chatbots. I'm passionate about AI and continuously exploring the fascinating world of AI. My repositories showcase my work and mini-projects across various exciting fields:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
 - 🔮 Deep Learning
 - 💬 Chatbot
 - 💡 And many more innovative technologies!
-
-I'm passionate about AI and continuously exploring the fascinating world of AI.
 
 ## 📊 GitHub Stats
 
@@ -38,13 +36,8 @@ I'm passionate about AI and continuously exploring the fascinating world of AI.
 ### [NarrativeNest Demo](https://hancreation.github.io/NarrativeNest-Demo/)
 Explore my latest project and see AI in action!
 
-### Upcoming Series
+## Noted & Coded by Han Series
 - 📺 Kenalan #ComingSoon
-
-## 🌐 Connect With Me
-
-- 🎯 Portfolio: [hancreation.github.io](https://hancreation.github.io/)
-- 🔗 Instagram: [@Han.Creation](https://instagram.com/Han.Creation)
 
 ---
 
