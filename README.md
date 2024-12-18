@@ -1,21 +1,44 @@
-## Hello there 👋
-What is going on guys my name is Han,  and Welcome to my github! This page contains repositories of my work/mini-project/projects in diverse fields, such as AI, Machine Learning, Deep Learning, and many more! Currently learning AI in Binus University.
+<h1 align="center">👋 Hello World, I'm Han!</h1>
 
+<p align="center">
+  <em>AI Enthusiast | Student Developer | Creative Coder</em>
+</p>
 
-Nice to meet you!
+## 🎓 About Me
 
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HanCreation&layout=compact&langs_count=8&card_width=320" />
+What it is going on guys, my name is Han and welcome to my GitHub universe! I'm currently pursuing my journey in Artificial Intelligence at **Binus University** and Trying to Love Chatbots. My repositories showcase my work and mini-projects across various exciting fields:
 
-All of these are Noted, Coded; Anything Created by Han.
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔮 Deep Learning
+- 💡 And many more innovative technologies!
 
-https://hancreation.github.io/
+I'm passionate about AI and continuously exploring the fascinating world of AI.
 
-----
-Try out my projects
-- https://hancreation.github.io/NarrativeNest-Demo/
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=HanCreation&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+</div>
 
-@Han.Creation
+## 🚀 Featured Projects
+
+### [NarrativeNest Demo](https://hancreation.github.io/NarrativeNest-Demo/)
+Explore my latest project and see AI in action!
+
+### Upcoming Series
+- 📺 Kenalan #ComingSoon
+
+## 🌐 Connect With Me
+
+- 🎯 Portfolio: [hancreation.github.io](https://hancreation.github.io/)
+- 🔗 Instagram: [@Han.Creation](https://instagram.com/Han.Creation)
+
+---
+
+<p align="center">
+  <i>All of these are Noted, Coded; Anything Created by Han.</i>
+</p>
 <!--
 **HanCreation/HanCreation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
