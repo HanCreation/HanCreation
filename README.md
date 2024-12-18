@@ -18,7 +18,15 @@ I'm passionate about AI and continuously exploring the fascinating world of AI.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=HanCreation&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanCreation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="HanCreation's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HanCreation&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="HanCreation's Language Stats"/>
+    
+  <!-- GitHub Streak Stats -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HanCreation&theme=tokyonight&hide_border=true" alt="HanCreation's GitHub Streak"/>
+  
+  <!-- GitHub Activity Graph 
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=HanCreation&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+  -->
 </div>
 
 ## 🚀 Featured Projects
