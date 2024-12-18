@@ -1,9 +1,11 @@
 <h1 align="center">👋 Hello World, I'm Han!</h1>
 
 <p align="center">
-  <em>AI Enthusiast | Student Developer | Creative Coder</em>
+  <em>AI Enthusiast | Student Developer | Data Enthusiast</em>
 </p>
-
+<p align="center">
+    https://hancreation.github.io/
+</p>
 ## 🎓 About Me
 
 What it is going on guys, my name is Han and welcome to my GitHub universe! I'm currently pursuing my journey in Artificial Intelligence at **Binus University** and Trying to Love Chatbots. My repositories showcase my work and mini-projects across various exciting fields:
