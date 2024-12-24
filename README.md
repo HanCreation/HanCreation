@@ -31,10 +31,11 @@ What it is going on guys, my name is Han and welcome to my GitHub universe! I'm 
   -->
 </div>
 
-## 🚀 Featured Projects
+## 🚀 Try and View Projects
 
 ### [NarrativeNest Demo](https://hancreation.github.io/NarrativeNest-Demo/)
-Explore my latest project and see AI in action!
+
+### [Global Moms Care](https://global-moms-care.vercel.app/home)
 
 ## Noted & Coded by Han Series
 - 📺 Kenalan #ComingSoon
