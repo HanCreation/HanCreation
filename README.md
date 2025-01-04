@@ -4,7 +4,7 @@
   <em>AI Enthusiast | Student Developer | Data Enthusiast</em>
 </p>
 <p align="center">
-    https://hancreation.github.io/
+    https://hancreation.vercel.app/
 </p>
 
 ## 🎓 About Me
