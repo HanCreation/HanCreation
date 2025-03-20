@@ -20,7 +20,7 @@ What it is going on guys, my name is Han and welcome to my GitHub universe! I'm 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanCreation&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="HanCreation's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HanCreation&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&count_private=true" alt="HanCreation's GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=HanCreation&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="HanCreation's Language Stats"/>
   
     
