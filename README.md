@@ -17,7 +17,7 @@ What it is going on guys, my name is Han and welcome to my GitHub universe! I'm 
 - 💬 Chatbot
 - 💡 And many more innovative technologies!
 
-So, if there is no AI in the app, it is not Han's Creation.
+So, if there is no AI to solve a problem in the app, it is not Han's Creation.
 
 ## 📊 GitHub Stats
 
