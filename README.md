@@ -38,7 +38,7 @@ So, if there is no AI in the app, it is not Han's Creation.
 
 ### [NarrativeNest Demo](https://hancreation.github.io/NarrativeNest-Demo/)
 
-### [Global Moms Care](https://global-moms-care.vercel.app/home)
+### [LookSharp](https://the-look-sharp.vercel.app/)
 
 ## Noted & Coded by Han Series
 - 📺 Kenalan #ComingSoon
